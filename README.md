@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">Jr Full-Stack web developer and Graphic Designer from Italy</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Bootstrapp,Sass, Vue.js, php, mySQL, Laravel**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Bootstrapp,Sass, Vue.js, php, mySQL, Laravel, React.js**
 
 - 👨‍💻 Some of my projects are available at [https://www.behance.net/andrewaliqu](https://www.behance.net/andrewaliqu)
 
