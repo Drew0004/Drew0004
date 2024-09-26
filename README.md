@@ -17,7 +17,7 @@
             </p>
             <hr>
             <div align="center">
-                <p><strong>Technologies: </strong> &#128187;</p>
+                <h2><strong>Technologies: </strong> &#128187;</h2>
                 <img width="40px" src="./img/Ai.png" alt=" Adobe Illustrator">&nbsp;&nbsp;&nbsp;
                 <img width="40px" src="./img/Ps.png" alt=" Adobe Photoshop">&nbsp;&nbsp;&nbsp;
                 <img width="40px" src="./img/Id.png" alt=" Adobe InDesign">&nbsp;&nbsp;&nbsp;
