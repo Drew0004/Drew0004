@@ -16,6 +16,27 @@
             Dopo la laurea continuo ad approfondire i miei studi, sia in ambito di UX/UI design, sia in ambito dello sviluppo web tramite Boolean, facendomi appassionare sempre di più a questo mondo giorno dopo giorno. Sono una persona fortemente determinata e volenterosa, aperta a nuove opportunità e pronta a mettersi in gioco.
         </p>
         <hr>
+        <div>
+            <p>Technologies: &#128187;</p>
+            <img width="30px" src="./img/Ai.png" alt=" Adobe Illustrator">
+            <img width="30px" src="./img/Ps.png" alt=" Adobe Photoshop">
+            <img width="30px" src="./img/Id.png" alt=" Adobe InDesign">
+            <img width="30px" src="./img/Blender.png" alt=" Blender">
+            <img width="30px" src="./img/Figrma.png" alt=" Figma">
+            <img width="30px" src="./img/Html.png" alt=" Html5">
+            <img width="30px" src="./img/Css.png" alt=" Css3">
+            <img width="30px" src="./img/Bootstrap.png" alt=" Bootstrap">
+            <img width="30px" src="./img/Js.png" alt=" JavaScript">
+            <img width="30px" src="./img/Vue.png" alt=" VueJs">
+            <img width="30px" src="./img/React.png" alt=" ReactJs">
+            <img width="30px" src="./img/Sass.png" alt=" Sass">
+            <img width="30px" src="./img/Php.png" alt=" PHP">
+            <img width="30px" src="./img/Laravel.png" alt=" Laravel">
+            <img width="30px" src="./img/MySql.png" alt=" MySql">
+            <img width="30px" src="./img/Db.png" alt=" Db Relazionale">
+            <img width="30px" src="./img/Git.png" alt=" Git Versioning">
+        </div>
+        <hr>
         <p align="center">
             <strong>Contact me:</strong>
             <br>
