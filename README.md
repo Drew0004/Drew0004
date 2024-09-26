@@ -20,10 +20,10 @@
             <strong>Contact me:</strong>
             <br>
             <br>
-            <a target="_blank" href="https://www.linkedin.com/in/andreaaliquò4/">
+            <a target="blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/andreaaliquò4/">
                 <img width="30px" src="./img/LinkedinIcon.png" alt="LinkedInIcon">
             </a>
-            <a target="_blank" href="mailto:andrea.aliquo99@gmail.com">
+            <a target="blank" href="mailto:andrea.aliquo99@gmail.com">
                 <img width="30px" src="./img/MailIcon.png" alt="EmailIcon">
             </a>
         </p>
