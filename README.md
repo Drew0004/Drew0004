@@ -17,11 +17,11 @@
         </p>
         <hr>
         <p align="center">
-            <small>Contact me:</small>
+            <strong>Contact me:</strong>
             <br>
             <br>
             <a target="_blank" href="https://www.linkedin.com/in/andreaaliquò4/">
-                    <img width="30px" src="./img/LinkedinIcon.png" alt="LinkedInIcon">
+                <img width="30px" src="./img/LinkedinIcon.png" alt="LinkedInIcon">
             </a>
             <a target="_blank" href="mailto:andrea.aliquo99@gmail.com">
                 <img width="30px" src="./img/MailIcon.png" alt="EmailIcon">
