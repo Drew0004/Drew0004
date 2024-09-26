@@ -42,10 +42,10 @@
                 <br>
                 <br>
                 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/andreaaliquò4/">
-                    <img width="30px" src="./img/LinkedinIcon.png" alt="LinkedInIcon">&nbsp;&nbsp;&nbsp;
+                    <img width="30px" src="./img/LinkedinIcon.png" alt="LinkedInIcon">
                 </a>
                 <a target="_blank" href="mailto:andrea.aliquo99@gmail.com">
-                    <img width="30px" src="./img/MailIcon.png" alt="EmailIcon">&nbsp;&nbsp;&nbsp;
+                    <img width="30px" src="./img/MailIcon.png" alt="EmailIcon">
                 </a>
             </p>
         </div>
