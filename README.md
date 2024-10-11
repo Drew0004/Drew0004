@@ -48,7 +48,7 @@
                     <img width="30px" src="./img/MailIcon.png" alt="EmailIcon">
                 </a>
                 <a target="_blank" href="https://andreaaliquo.netlify.app/">
-                    <img width="30px" src="./img/Website.png alt="WebsiteIcon">
+                    <img width="30px" src="./img/Website.png" alt="WebsiteIcon">
                 </a>
             </p>
         </div>
